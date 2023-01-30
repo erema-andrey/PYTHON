@@ -57,11 +57,15 @@
 #else:
 #    print('NO')
 
-n,m,k = int(input()),int(input()),int(input())
-if n*m>k:
-    if k%n==0 or k%m==0:
-        print('YES')
-    else:
-        print('NO')
-else:
-    print('NO')    
+
+# n = int(input())
+# m = int(input())
+# k = int(input())
+# area = n * m
+# last = area - k
+# full_m = k / n
+# if full_m == (area - last):
+#     print('YES')
+# else:
+#     print('NO')
+
