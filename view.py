@@ -1,5 +1,5 @@
 def view_data(data):
-    print(data)
+    print(f'upshot = {data}')
     
 def get_value():
-    return int(input('value = ... '))
+    return int(input('value =  '))

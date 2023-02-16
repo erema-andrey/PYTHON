@@ -1,3 +1,3 @@
-import controler as c
+import controller as c
 
-c.buttoh_click()
+c.button_click()

@@ -7,5 +7,5 @@ def init(a, b):
     x = a
     y = b
 
-def sum():
-    return x + y
+def result():
+    return x // y
